@@ -1,0 +1,16 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.masthead
+{
+    background-image: url(https://www.solartis.com/hubfs/v2-hero-bg.png);
+    background-size: cover;
+    
+   
+    height: 80vh;
+    background-position: center;
+
+}
